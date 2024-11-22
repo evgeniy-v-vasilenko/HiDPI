@@ -1,2 +1,2 @@
 # HiDPI
-HiDPI - is windows roblox, youtube
+HiDPI - is windows site blocker. Can block roblox and youtube
